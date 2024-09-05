@@ -1,0 +1,24 @@
+#main{
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+align-items: center;
+}
+#login{
+    display: flex;
+justify-content: space-between;
+flex-direction: column;
+   /* flex-direction: column;  */
+}
+#login>input{
+    margin: 10px;
+    padding: 10px;
+}
+#login>button{
+    margin: 10px;
+    padding: 10px;
+}
+#signup>button{
+    margin: 10px;
+    padding: 10px;
+}
